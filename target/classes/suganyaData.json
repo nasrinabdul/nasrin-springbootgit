@@ -1,0 +1,44 @@
+[
+  {
+    "store" : 105,
+    "department" : 22,
+    "class" : 12,
+    "subClass" : 14
+  },
+  {
+    "store" : 106,
+    "department" : 22,
+    "class" : 12,
+    "subClass" : 14
+  },
+  {
+    "store" : 105,
+    "department" : 27,
+    "class" : 23,
+    "subClass" : 12
+  },
+  {
+    "store" : 105,
+    "department" : 22,
+    "class" : 12,
+    "subClass" : 15
+  },
+  {
+    "store" : 107,
+    "department" : 22,
+    "class" : 12,
+    "subClass" : 15
+  },
+  {
+    "store" : 105,
+    "department" : 27,
+    "class" : 23,
+    "subClass" : 13
+  },
+  {
+    "store" : 107,
+    "department" : 27,
+    "class" : 23,
+    "subClass" : 13
+  }
+]
